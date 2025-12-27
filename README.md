@@ -16,12 +16,11 @@ A console-based Airline Management System developed in C. This system allows use
 - Windows OS (Required for `<conio.h>` and `system("cls")`)
 
 ## 🖥️ Installation & Running
-1. Clone the repository:
+1. Clone the repository: [https://github.com/Thepenguin07/Airline-Reservation-Management-System/tree/main]
   
 Navigate to the src folder.
 
 Compile the code:
-[https://github.com/Thepenguin07/Airline-Reservation-Management-System/tree/main]
 Bash
 gcc main.c -o airline_system
 Run the executable:
